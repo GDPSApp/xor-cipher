@@ -1,6 +1,6 @@
 [package]
 name = "xor-cipher"
-version = "4.0.0"
+version = "4.0.1"
 authors = ["GDPS App <hello@gdps.app>"]
 edition = "2024"
 description = "Simple, reusable and optimized XOR ciphers in Rust."
