@@ -106,7 +106,7 @@ d8Q=
 
 This Security Policy is adapted from [Rust's Security Policy][Rust Security Policy].
 
-[Security Email]: mailto:security@nekit.dev
+[Security Email]: mailto:security@gdps.app
 [Security Key]: https://gdps.app/static/keys/security.key
 [MIT Key Server]: https://pgp.mit.edu/pks/lookup?op=index&search=0x14143790CA958778E20C2E98DC239CC273E96223
 [Rust Security Policy]: https://rust-lang.org/policies/security

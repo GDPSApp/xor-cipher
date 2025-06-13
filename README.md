@@ -37,7 +37,7 @@ You can find the documentation [here][Documentation].
 
 ## Support
 
-If you need support with the library, you can send an [email][Email].
+If you need support with the library, you can send an [email][Email] or join the [Discord server][Discord].
 
 ## Changelog
 
@@ -56,7 +56,8 @@ If you are interested in contributing to `xor-cipher`, make sure to take a look 
 
 `xor-cipher` is licensed under the MIT License terms. See [License][License] for details.
 
-[Email]: mailto:support@nekit.dev
+[Email]: mailto:dev@gdps.app
+[Discord]: https://gdps.app/discord
 
 [Actions]: https://github.com/GDPSApp/xor-cipher/actions
 
