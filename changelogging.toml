@@ -1,7 +1,7 @@
 [context]
 name = "xor-cipher"
 version = "4.0.0"
-url = "https://github.com/xor-cipher/xor-cipher-crate"
+url = "https://github.com/GDPSApp/xor-cipher"
 
 [formats]
 title = "[{{version}}]({{url}}/tree/v{{version}}) ({{date}})"

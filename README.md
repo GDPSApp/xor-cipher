@@ -28,7 +28,7 @@ Alternatively, you can add it directly from the source:
 
 ```toml
 [dependencies.xor-cipher]
-git = "https://github.com/xor-cipher/xor-cipher-crate.git"
+git = "https://github.com/GDPSApp/xor-cipher.git"
 ```
 
 ## Documentation
@@ -58,14 +58,14 @@ If you are interested in contributing to `xor-cipher`, make sure to take a look 
 
 [Email]: mailto:support@nekit.dev
 
-[Actions]: https://github.com/xor-cipher/xor-cipher-crate/actions
+[Actions]: https://github.com/GDPSApp/xor-cipher/actions
 
-[Changelog]: https://github.com/xor-cipher/xor-cipher-crate/blob/main/CHANGELOG.md
-[Code of Conduct]: https://github.com/xor-cipher/xor-cipher-crate/blob/main/CODE_OF_CONDUCT.md
-[Contributing Guide]: https://github.com/xor-cipher/xor-cipher-crate/blob/main/CONTRIBUTING.md
-[Security]: https://github.com/xor-cipher/xor-cipher-crate/blob/main/SECURITY.md
+[Changelog]: https://github.com/GDPSApp/xor-cipher/blob/main/CHANGELOG.md
+[Code of Conduct]: https://github.com/GDPSApp/xor-cipher/blob/main/CODE_OF_CONDUCT.md
+[Contributing Guide]: https://github.com/GDPSApp/xor-cipher/blob/main/CONTRIBUTING.md
+[Security]: https://github.com/GDPSApp/xor-cipher/blob/main/SECURITY.md
 
-[License]: https://github.com/xor-cipher/xor-cipher-crate/blob/main/LICENSE
+[License]: https://github.com/GDPSApp/xor-cipher/blob/main/LICENSE
 
 [Crate]: https://crates.io/crates/xor-cipher
 [Documentation]: https://docs.rs/xor-cipher
@@ -73,4 +73,4 @@ If you are interested in contributing to `xor-cipher`, make sure to take a look 
 [License Badge]: https://img.shields.io/crates/l/xor-cipher
 [Version Badge]: https://img.shields.io/crates/v/xor-cipher
 [Downloads Badge]: https://img.shields.io/crates/dr/xor-cipher
-[Test Badge]: https://github.com/xor-cipher/xor-cipher-crate/workflows/test/badge.svg
+[Test Badge]: https://github.com/GDPSApp/xor-cipher/workflows/test/badge.svg
